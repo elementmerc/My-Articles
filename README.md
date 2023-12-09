@@ -1,2 +1,2 @@
-# My-Articles
-A repo of all articles I've written
+# My-Articles-and-Writeups
+A repo of all articles and writups I've written
